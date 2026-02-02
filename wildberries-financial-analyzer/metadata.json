@@ -1,0 +1,5 @@
+{
+  "name": "Wildberries Financial Analyzer",
+  "description": "A sophisticated financial dashboard for Wildberries sellers, implementing the Srid Aggregation Model for accurate profit calculation across four analytical layers.",
+  "requestFramePermissions": []
+}
